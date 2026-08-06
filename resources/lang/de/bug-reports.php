@@ -21,7 +21,7 @@ return [
         'breadcrumb' => 'Melden',
         'actions' => [
             'create' => 'Melden',
-            'create_another' => 'Melden und Fügen Sie einen Anderen hinzu.',
+            'create_another' => 'Melden und fügen Sie einen Anderen hinzu.',
         ],
     ],
 
